@@ -1,17 +1,17 @@
 {
     "basic_info": {
       "name": "Manuch S.",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Mid-career tech industry veteran turned full-stack software developer" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/mcsadri",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "linkedin",
+          "url": "https://www.linkedin.com/in/manuch-sadri/",
+          "class": "fab fa-linkedin"
         }
       ],
       "image": "myProfile.jpg"
