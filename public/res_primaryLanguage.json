@@ -1,118 +1,138 @@
 {
     "basic_info": {
-      "description_header": "Hi",
-      "description": "I'm a full-stack software developer looking to leverage 18+ years of experience working in the contact center space to create tools for improving the customer and agent experience, and creating workforce management solutions.",
-      "section_name": {
-        "about": "About me",
-        "projects": "Projects",
-        "skills": "Skills",
-        "experience": "Experience"
-      }
+        "description_header": "Hi",
+        "description": "I'm a full-stack software developer based in Seattle, WA looking to leverage 18+ years of experience working in the contact center space to create tools for enhancing the customer and agent experience, and improving workforce management solutions.",
+        "section_name": {
+            "about": "About me",
+            "projects": "Projects",
+            "skills": "Skills",
+            "experience": "Experience"
+        }
     },
     "projects": [
-      {
-        "title": "To Do Done",
-        "startDate": "2022",
-        "description": "To Do Done was a capstone team project to create a web-based to-do list application using vanilla JavaScript, vanilla CSS with implementation of a constructor, local storage, event listeners/handlers, and DOM manipulation.",
-        "images": [
-          "images/portfolio/to-do-list/p1.jpg"
-        ],
-        "url": "https://mcsadri.github.io/to-do-done/",
-        "technologies": [
-          {
-            "name": "JavaScript",
-            "class": "devicon-javascript-plain"
-          },
-          {
-            "name": "HTML 5",
-            "class": "devicon-html5-plain"
-          },
-          {
-            "name": "CSS 3",
-            "class": "devicon-css3-plain"
-          }
-        ]
-      },
-      {
-        "title": "Horned Beasts",
-        "startDate": "2022",
-        "description": "Horned Beasts is my first React and React-Bootstrap application. It displays a list of various beasts with (or without) varying numbers of horns. IT allows the user to set favorites, enlarge a chosen beast (via a modal pop-up), and also filter the beasts by the number of horns.",
-        "images": [
-          "images/portfolio/horned-beasts/p1.jpg"
-        ],
-        "url": "https://mcsadri-horned-beasts.netlify.app/",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "name": "Bootstrap",
-            "class": "devicon-bootstrap-plain"
+        {
+            "title": "To Do Done",
+            "startDate": "2022",
+            "description": "To Do Done was a capstone team project to create a web-based to-do list application using vanilla JavaScript, vanilla CSS with implementation of a constructor, local storage, event listeners/handlers, and DOM manipulation.",
+            "images": [
+                "images/portfolio/to-do-list/p1.jpg"
+            ],
+            "url": "https://mcsadri.github.io/to-do-done/",
+            "technologies": [
+                {
+                    "name": "JavaScript",
+                    "class": "devicon-javascript-plain"
+                },
+                {
+                    "name": "HTML 5",
+                    "class": "devicon-html5-plain"
+                },
+                {
+                    "name": "CSS 3",
+                    "class": "devicon-css3-plain"
+                }
+            ]
         },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "Odd Ducks",
-        "startDate": "2022",
-        "description": "Odd Ducks is a fictional store that offers a user to vote on the store's would-be next product. This is done by presenting the user with 3 randomized images with an event listener/handler to collect votes and refresh the images displayed. Once voting is completed the user is given the option to view the voting results in table and chart form (via chartjs). This has really lame CSS styling.",
-        "images": [
-          "images/portfolio/odd-ducks/p1.jpg"
-        ],
-        "url": "https://mcsadri.github.io/odd-duck/",
-        "technologies": [
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          },
-          {
-            "class": "devicon-html5-plain",
-            "name": "HTML 5"
-          },
-          {
-            "class": "devicon-css3-plain",
-            "name": "CSS 3"
-          }        ]
-      }
+        {
+            "title": "Horned Beasts",
+            "startDate": "2022",
+            "description": "Horned Beasts is my first React and React-Bootstrap application. It displays a list of various beasts with (or without) varying numbers of horns. IT allows the user to set favorites, enlarge a chosen beast (via a modal pop-up), and also filter the beasts by the number of horns.",
+            "images": [
+                "images/portfolio/horned-beasts/p1.jpg"
+            ],
+            "url": "https://mcsadri-horned-beasts.netlify.app/",
+            "technologies": [
+                {
+                    "class": "devicon-react-original",
+                    "name": "React"
+                },
+                {
+                    "name": "Bootstrap",
+                    "class": "devicon-bootstrap-plain"
+                },
+                {
+                    "class": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                }
+            ]
+        },
+        {
+            "title": "Odd Ducks",
+            "startDate": "2022",
+            "description": "Odd Ducks is a fictional store that offers a user to vote on the store's would-be next product. This is done by presenting the user with 3 randomized images with an event listener/handler to collect votes and refresh the images displayed. Once voting is completed the user is given the option to view the voting results in table and chart form (via chartjs). This has really lame CSS styling.",
+            "images": [
+                "images/portfolio/odd-ducks/p1.jpg"
+            ],
+            "url": "https://mcsadri.github.io/odd-duck/",
+            "technologies": [
+                {
+                    "class": "devicon-javascript-plain",
+                    "name": "JavaScript"
+                },
+                {
+                    "class": "devicon-html5-plain",
+                    "name": "HTML 5"
+                },
+                {
+                    "class": "devicon-css3-plain",
+                    "name": "CSS 3"
+                }
+            ]
+        }
     ],
     "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
+        {
+            "company": "Expedia Group",
+            "title": "Software Security Engineer II",
+            "years": "03.2016 - present",
+            "mainTech": [
+                "NICE Engage"
+            ],
+            "technologies": [
+                "Windows Server",
+                "MS SQL",
+                "Jira",
+                "Confluence",
+                "ServiceNow",
+                "DataDog",
+                "Splunk",
+                "Salesforce",
+                "Twilio"
+            ]
+        },
+        {
+            "company": "Expedia Group",
+            "title": "IVR Scripting Engineer I",
+            "years": "02.2012 - 03.2016",
+            "mainTech": [
+                "Cisco ICM"
+            ],
+            "technologies": [
+                "Cisco CUCM",
+                "Cisco UCCE",
+                "VHT",
+                "Aceyus",
+                "Windows Server",
+                "MS SQL",
+                "Confluence",
+                "ServiceNow"
+
+            ]
+        },
+        {
+            "company": "T-Mobile",
+            "title": "Specialist 3 Avaya/PBX Support",
+            "years": "11.2007 - 02.2012",
+            "mainTech": [
+                "Avaya CM"
+            ],
+            "technologies": [
+                "Avaya ASA",
+                "Cisco ICM",
+                "Cisco CUCM",
+                "Windows Server",
+                "MS SQL"
+            ]
+        }
     ]
-  }
+}
